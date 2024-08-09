@@ -1,6 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS 1
 #include<stdio.h>
-// 给定两个数，求这两个数的最大公约数
+//最大公约数, 辗转相除法
 
 //int main()
 //{
